@@ -1,6 +1,6 @@
-# Physics 427 Project 2: Simulating Fluid Dynamics
+# Physics 427 Project 2: Computational Fluid Dynamics
 
-__Due 11:59pm Wednesday 11/15/2023__
+__Due 11:59pm Wednesday 11/20/2024__
 
 ![Red Spot](jupiter-red-spot.jpg)
 
